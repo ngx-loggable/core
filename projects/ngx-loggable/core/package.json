@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/ngx-loggable/core/issues"
   },
-  "version": "0.0.30",
+  "version": "0.0.40",
   "dependencies": {
     "tslib": "^2.3.0"
   }
