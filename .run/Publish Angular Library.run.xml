@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Publish Angular Library" type="ShConfigurationType">
-    <option name="SCRIPT_TEXT" value="cd projects/ngx-loggable/core &amp;&amp; npm version patch &amp;&amp; ng build &amp;&amp; cd ../../../dist/@ngx-loggable/core &amp;&amp; npm publish &amp;&amp; exit" />
+    <option name="SCRIPT_TEXT" value="cd projects\ngx-loggable\core &amp;&amp; npm version patch &amp;&amp; ng build &amp;&amp; cd ..\..\..\dist\@ngx-loggable\core &amp;&amp; copy ..\..\..\README.md . &amp;&amp; npm publish &amp;&amp; exit" />
     <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
     <option name="SCRIPT_PATH" value="" />
     <option name="SCRIPT_OPTIONS" value="" />
