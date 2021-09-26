@@ -1,2 +1,3 @@
-# core
-The logging library for Angular
+# @ngx-loggable/core
+
+The logging library for Angular.
